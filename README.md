@@ -1,2 +1,2 @@
-# cronm
+# cronman
 cron job management
